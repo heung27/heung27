@@ -1,4 +1,7 @@
-[![Heung27's github stats](https://github-readme-stats.vercel.app/api?username=heung27&show_icons=true&theme=graywhite)](https://github.com/heung27/github-readme-stats) [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=heung)](https://solved.ac/heung)
+[![Heung27's github stats](https://github-readme-stats.vercel.app/api?username=heung27&show_icons=true&theme=graywhite)](https://github.com/heung27/github-readme-stats)
+
+
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=heung)](https://solved.ac/heung)
 
 
 <!--
