@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20JisuPark%20%20&height=200&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20Heung27%20%20&height=200&fontSize=100)
 
-[![Heung27's github stats](https://github-readme-stats.vercel.app/api?username={username}&show_icons=true&theme={theme})](https://github.com/{username}/github-readme-stats)
+[![Heung27's github stats](https://github-readme-stats.vercel.app/api?username={heung27}&show_icons=true&theme={graywhite})](https://github.com/{heung27}/github-readme-stats)
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={userid})](https://solved.ac/{userid})
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={heung})](https://solved.ac/{heung})
 <!--
 **heung27/heung27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
