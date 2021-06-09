@@ -1,6 +1,5 @@
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%heung27&count_bg=%231498F0&title_bg=%23C9C9C9&icon=&icon_color=%23E7E7E7&title=today+is&edge_flat=false)](https://hits.seeyoufarm.com)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heung&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Heung27's github stats](https://github-readme-stats.vercel.app/api?username=heung27&show_icons=true&theme=graywhite)](https://github.com/heung27/github-readme-stats)[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=heung)](https://solved.ac/heung)
 
 
